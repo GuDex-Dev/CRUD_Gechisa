@@ -1,0 +1,112 @@
+C:\Users\JUAN PC\source\repos\CRUD_GECHISA\CRUD_GECHISA\bin\Debug\net8.0-windows\CRUD_GECHISA.exe
+C:\Users\JUAN PC\source\repos\CRUD_GECHISA\CRUD_GECHISA\bin\Debug\net8.0-windows\CRUD_GECHISA.deps.json
+C:\Users\JUAN PC\source\repos\CRUD_GECHISA\CRUD_GECHISA\bin\Debug\net8.0-windows\CRUD_GECHISA.runtimeconfig.json
+C:\Users\JUAN PC\source\repos\CRUD_GECHISA\CRUD_GECHISA\bin\Debug\net8.0-windows\CRUD_GECHISA.dll
+C:\Users\JUAN PC\source\repos\CRUD_GECHISA\CRUD_GECHISA\bin\Debug\net8.0-windows\CRUD_GECHISA.pdb
+C:\Users\JUAN PC\source\repos\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.frmPrincipal.resources
+C:\Users\JUAN PC\source\repos\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.vbproj.GenerateResource.cache
+C:\Users\JUAN PC\source\repos\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUAN PC\source\repos\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.AssemblyInfoInputs.cache
+C:\Users\JUAN PC\source\repos\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.AssemblyInfo.vb
+C:\Users\JUAN PC\source\repos\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.vbproj.CoreCompileInputs.cache
+C:\Users\JUAN PC\source\repos\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.dll
+C:\Users\JUAN PC\source\repos\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\refint\CRUD_GECHISA.dll
+C:\Users\JUAN PC\source\repos\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.pdb
+C:\Users\JUAN PC\source\repos\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.genruntimeconfig.cache
+C:\Users\JUAN PC\source\repos\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\ref\CRUD_GECHISA.dll
+C:\Users\JUAN PC\source\repos\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.Resources.resources
+C:\Users\JUAN PC\source\repos\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.frmPersona.resources
+C:\Users\JUAN PC\source\repos\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.frmRuta.resources
+C:\Users\JUAN PC\source\repos\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.frmEmpleado.resources
+C:\Users\JUAN PC\source\repos\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.frmConductor.resources
+C:\Users\JUAN PC\source\repos\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.frmBus.resources
+C:\Users\JUAN PC\source\repos\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.frmCliente.resources
+C:\Users\JUAN PC\source\repos\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.frmTicket.resources
+C:\Users\JUAN PC\source\repos\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.frmVendedor.resources
+C:\Users\JUAN PC\source\repos\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.frmViaje.resources
+C:\LAPTOP\GuDex\SECOND BRAIN\Academics\UCV Ciclo 5 - 01042024\03-GDI_II\S05\VisualBasicProject\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.frmBus.resources
+C:\LAPTOP\GuDex\SECOND BRAIN\Academics\UCV Ciclo 5 - 01042024\03-GDI_II\S05\VisualBasicProject\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.frmCliente.resources
+C:\LAPTOP\GuDex\SECOND BRAIN\Academics\UCV Ciclo 5 - 01042024\03-GDI_II\S05\VisualBasicProject\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.frmConductor.resources
+C:\LAPTOP\GuDex\SECOND BRAIN\Academics\UCV Ciclo 5 - 01042024\03-GDI_II\S05\VisualBasicProject\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.frmEmpleado.resources
+C:\LAPTOP\GuDex\SECOND BRAIN\Academics\UCV Ciclo 5 - 01042024\03-GDI_II\S05\VisualBasicProject\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.frmPersona.resources
+C:\LAPTOP\GuDex\SECOND BRAIN\Academics\UCV Ciclo 5 - 01042024\03-GDI_II\S05\VisualBasicProject\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.frmPrincipal.resources
+C:\LAPTOP\GuDex\SECOND BRAIN\Academics\UCV Ciclo 5 - 01042024\03-GDI_II\S05\VisualBasicProject\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.frmRuta.resources
+C:\LAPTOP\GuDex\SECOND BRAIN\Academics\UCV Ciclo 5 - 01042024\03-GDI_II\S05\VisualBasicProject\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.frmTicket.resources
+C:\LAPTOP\GuDex\SECOND BRAIN\Academics\UCV Ciclo 5 - 01042024\03-GDI_II\S05\VisualBasicProject\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.frmVendedor.resources
+C:\LAPTOP\GuDex\SECOND BRAIN\Academics\UCV Ciclo 5 - 01042024\03-GDI_II\S05\VisualBasicProject\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.frmViaje.resources
+C:\LAPTOP\GuDex\SECOND BRAIN\Academics\UCV Ciclo 5 - 01042024\03-GDI_II\S05\VisualBasicProject\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.Resources.resources
+C:\LAPTOP\GuDex\SECOND BRAIN\Academics\UCV Ciclo 5 - 01042024\03-GDI_II\S05\VisualBasicProject\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.vbproj.GenerateResource.cache
+C:\LAPTOP\GuDex\SECOND BRAIN\Academics\UCV Ciclo 5 - 01042024\03-GDI_II\S05\VisualBasicProject\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.GeneratedMSBuildEditorConfig.editorconfig
+C:\LAPTOP\GuDex\SECOND BRAIN\Academics\UCV Ciclo 5 - 01042024\03-GDI_II\S05\VisualBasicProject\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.AssemblyInfoInputs.cache
+C:\LAPTOP\GuDex\SECOND BRAIN\Academics\UCV Ciclo 5 - 01042024\03-GDI_II\S05\VisualBasicProject\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.AssemblyInfo.vb
+C:\LAPTOP\GuDex\SECOND BRAIN\Academics\UCV Ciclo 5 - 01042024\03-GDI_II\S05\VisualBasicProject\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.vbproj.CoreCompileInputs.cache
+C:\LAPTOP\GuDex\SECOND BRAIN\Academics\UCV Ciclo 5 - 01042024\03-GDI_II\S05\VisualBasicProject\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.dll
+C:\LAPTOP\GuDex\SECOND BRAIN\Academics\UCV Ciclo 5 - 01042024\03-GDI_II\S05\VisualBasicProject\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\refint\CRUD_GECHISA.dll
+C:\LAPTOP\GuDex\SECOND BRAIN\Academics\UCV Ciclo 5 - 01042024\03-GDI_II\S05\VisualBasicProject\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.pdb
+C:\LAPTOP\GuDex\SECOND BRAIN\Academics\UCV Ciclo 5 - 01042024\03-GDI_II\S05\VisualBasicProject\CRUD_GECHISA\CRUD_GECHISA\bin\Debug\net8.0-windows\CRUD_GECHISA.exe
+C:\LAPTOP\GuDex\SECOND BRAIN\Academics\UCV Ciclo 5 - 01042024\03-GDI_II\S05\VisualBasicProject\CRUD_GECHISA\CRUD_GECHISA\bin\Debug\net8.0-windows\CRUD_GECHISA.deps.json
+C:\LAPTOP\GuDex\SECOND BRAIN\Academics\UCV Ciclo 5 - 01042024\03-GDI_II\S05\VisualBasicProject\CRUD_GECHISA\CRUD_GECHISA\bin\Debug\net8.0-windows\CRUD_GECHISA.runtimeconfig.json
+C:\LAPTOP\GuDex\SECOND BRAIN\Academics\UCV Ciclo 5 - 01042024\03-GDI_II\S05\VisualBasicProject\CRUD_GECHISA\CRUD_GECHISA\bin\Debug\net8.0-windows\CRUD_GECHISA.dll
+C:\LAPTOP\GuDex\SECOND BRAIN\Academics\UCV Ciclo 5 - 01042024\03-GDI_II\S05\VisualBasicProject\CRUD_GECHISA\CRUD_GECHISA\bin\Debug\net8.0-windows\CRUD_GECHISA.pdb
+C:\LAPTOP\GuDex\SECOND BRAIN\Academics\UCV Ciclo 5 - 01042024\03-GDI_II\S05\VisualBasicProject\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.genruntimeconfig.cache
+C:\LAPTOP\GuDex\SECOND BRAIN\Academics\UCV Ciclo 5 - 01042024\03-GDI_II\S05\VisualBasicProject\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\ref\CRUD_GECHISA.dll
+C:\Users\cxisa\Documents\Projects-Dev\Academics\UCV\CRUD_GECHISA\CRUD_GECHISA\bin\Debug\net8.0-windows\CRUD_GECHISA.exe
+C:\Users\cxisa\Documents\Projects-Dev\Academics\UCV\CRUD_GECHISA\CRUD_GECHISA\bin\Debug\net8.0-windows\CRUD_GECHISA.deps.json
+C:\Users\cxisa\Documents\Projects-Dev\Academics\UCV\CRUD_GECHISA\CRUD_GECHISA\bin\Debug\net8.0-windows\CRUD_GECHISA.runtimeconfig.json
+C:\Users\cxisa\Documents\Projects-Dev\Academics\UCV\CRUD_GECHISA\CRUD_GECHISA\bin\Debug\net8.0-windows\CRUD_GECHISA.dll
+C:\Users\cxisa\Documents\Projects-Dev\Academics\UCV\CRUD_GECHISA\CRUD_GECHISA\bin\Debug\net8.0-windows\CRUD_GECHISA.pdb
+C:\Users\cxisa\Documents\Projects-Dev\Academics\UCV\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.frmBoleto.resources
+C:\Users\cxisa\Documents\Projects-Dev\Academics\UCV\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.frmBus.resources
+C:\Users\cxisa\Documents\Projects-Dev\Academics\UCV\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.frmCliente.resources
+C:\Users\cxisa\Documents\Projects-Dev\Academics\UCV\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.frmConductor.resources
+C:\Users\cxisa\Documents\Projects-Dev\Academics\UCV\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.frmEmpleado.resources
+C:\Users\cxisa\Documents\Projects-Dev\Academics\UCV\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.frmPersona.resources
+C:\Users\cxisa\Documents\Projects-Dev\Academics\UCV\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.frmPrincipal.resources
+C:\Users\cxisa\Documents\Projects-Dev\Academics\UCV\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.frmRuta.resources
+C:\Users\cxisa\Documents\Projects-Dev\Academics\UCV\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.frmVendedor.resources
+C:\Users\cxisa\Documents\Projects-Dev\Academics\UCV\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.frmViaje.resources
+C:\Users\cxisa\Documents\Projects-Dev\Academics\UCV\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.Resources.resources
+C:\Users\cxisa\Documents\Projects-Dev\Academics\UCV\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.vbproj.GenerateResource.cache
+C:\Users\cxisa\Documents\Projects-Dev\Academics\UCV\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cxisa\Documents\Projects-Dev\Academics\UCV\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.AssemblyInfoInputs.cache
+C:\Users\cxisa\Documents\Projects-Dev\Academics\UCV\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.AssemblyInfo.vb
+C:\Users\cxisa\Documents\Projects-Dev\Academics\UCV\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.vbproj.CoreCompileInputs.cache
+C:\Users\cxisa\Documents\Projects-Dev\Academics\UCV\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.dll
+C:\Users\cxisa\Documents\Projects-Dev\Academics\UCV\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\refint\CRUD_GECHISA.dll
+C:\Users\cxisa\Documents\Projects-Dev\Academics\UCV\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.pdb
+C:\Users\cxisa\Documents\Projects-Dev\Academics\UCV\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.genruntimeconfig.cache
+C:\Users\cxisa\Documents\Projects-Dev\Academics\UCV\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\ref\CRUD_GECHISA.dll
+C:\Users\kevin\Downloads\CRUD_GECHISA\CRUD_GECHISA\CRUD_GECHISA\bin\Debug\net8.0-windows\CRUD_GECHISA.exe
+C:\Users\kevin\Downloads\CRUD_GECHISA\CRUD_GECHISA\CRUD_GECHISA\bin\Debug\net8.0-windows\CRUD_GECHISA.deps.json
+C:\Users\kevin\Downloads\CRUD_GECHISA\CRUD_GECHISA\CRUD_GECHISA\bin\Debug\net8.0-windows\CRUD_GECHISA.runtimeconfig.json
+C:\Users\kevin\Downloads\CRUD_GECHISA\CRUD_GECHISA\CRUD_GECHISA\bin\Debug\net8.0-windows\CRUD_GECHISA.dll
+C:\Users\kevin\Downloads\CRUD_GECHISA\CRUD_GECHISA\CRUD_GECHISA\bin\Debug\net8.0-windows\CRUD_GECHISA.pdb
+C:\Users\kevin\Downloads\CRUD_GECHISA\CRUD_GECHISA\CRUD_GECHISA\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\kevin\Downloads\CRUD_GECHISA\CRUD_GECHISA\CRUD_GECHISA\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\kevin\Downloads\CRUD_GECHISA\CRUD_GECHISA\CRUD_GECHISA\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\kevin\Downloads\CRUD_GECHISA\CRUD_GECHISA\CRUD_GECHISA\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\kevin\Downloads\CRUD_GECHISA\CRUD_GECHISA\CRUD_GECHISA\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kevin\Downloads\CRUD_GECHISA\CRUD_GECHISA\CRUD_GECHISA\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kevin\Downloads\CRUD_GECHISA\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.vbproj.AssemblyReference.cache
+C:\Users\kevin\Downloads\CRUD_GECHISA\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.frmBoleto.resources
+C:\Users\kevin\Downloads\CRUD_GECHISA\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.frmBus.resources
+C:\Users\kevin\Downloads\CRUD_GECHISA\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.frmCliente.resources
+C:\Users\kevin\Downloads\CRUD_GECHISA\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.frmConductor.resources
+C:\Users\kevin\Downloads\CRUD_GECHISA\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.frmEmpleado.resources
+C:\Users\kevin\Downloads\CRUD_GECHISA\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.frmPersona.resources
+C:\Users\kevin\Downloads\CRUD_GECHISA\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.frmPrincipal.resources
+C:\Users\kevin\Downloads\CRUD_GECHISA\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.frmRuta.resources
+C:\Users\kevin\Downloads\CRUD_GECHISA\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.frmVendedor.resources
+C:\Users\kevin\Downloads\CRUD_GECHISA\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.frmViaje.resources
+C:\Users\kevin\Downloads\CRUD_GECHISA\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.Resources.resources
+C:\Users\kevin\Downloads\CRUD_GECHISA\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.vbproj.GenerateResource.cache
+C:\Users\kevin\Downloads\CRUD_GECHISA\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Downloads\CRUD_GECHISA\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.AssemblyInfoInputs.cache
+C:\Users\kevin\Downloads\CRUD_GECHISA\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.AssemblyInfo.vb
+C:\Users\kevin\Downloads\CRUD_GECHISA\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.vbproj.CoreCompileInputs.cache
+C:\Users\kevin\Downloads\CRUD_GECHISA\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GEC.ABEC69EB.Up2Date
+C:\Users\kevin\Downloads\CRUD_GECHISA\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.dll
+C:\Users\kevin\Downloads\CRUD_GECHISA\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\refint\CRUD_GECHISA.dll
+C:\Users\kevin\Downloads\CRUD_GECHISA\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.pdb
+C:\Users\kevin\Downloads\CRUD_GECHISA\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\CRUD_GECHISA.genruntimeconfig.cache
+C:\Users\kevin\Downloads\CRUD_GECHISA\CRUD_GECHISA\CRUD_GECHISA\obj\Debug\net8.0-windows\ref\CRUD_GECHISA.dll

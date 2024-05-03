@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kevin\\Downloads\\CRUD_GECHISA\\CRUD_GECHISA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73602999-6DE3-4B35-B10F-4694263DEA9B}|CRUD_GECHISA\\CRUD_GECHISA.vbproj|c:\\users\\kevin\\downloads\\crud_gechisa\\crud_gechisa\\crud_gechisa\\frmbus.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{73602999-6DE3-4B35-B10F-4694263DEA9B}|CRUD_GECHISA\\CRUD_GECHISA.vbproj|solutionrelative:crud_gechisa\\frmbus.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73602999-6DE3-4B35-B10F-4694263DEA9B}|CRUD_GECHISA\\CRUD_GECHISA.vbproj|C:\\Users\\kevin\\Downloads\\CRUD_GECHISA\\CRUD_GECHISA\\crud_gechisa\\frmpersona.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{73602999-6DE3-4B35-B10F-4694263DEA9B}|CRUD_GECHISA\\CRUD_GECHISA.vbproj|solutionrelative:crud_gechisa\\frmpersona.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73602999-6DE3-4B35-B10F-4694263DEA9B}|CRUD_GECHISA\\CRUD_GECHISA.vbproj|C:\\Users\\kevin\\Downloads\\CRUD_GECHISA\\CRUD_GECHISA\\crud_gechisa\\frmbus.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{73602999-6DE3-4B35-B10F-4694263DEA9B}|CRUD_GECHISA\\CRUD_GECHISA.vbproj|solutionrelative:crud_gechisa\\frmbus.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73602999-6DE3-4B35-B10F-4694263DEA9B}|CRUD_GECHISA\\CRUD_GECHISA.vbproj|C:\\Users\\kevin\\Downloads\\CRUD_GECHISA\\CRUD_GECHISA\\crud_gechisa\\frmprincipal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{73602999-6DE3-4B35-B10F-4694263DEA9B}|CRUD_GECHISA\\CRUD_GECHISA.vbproj|solutionrelative:crud_gechisa\\frmprincipal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73602999-6DE3-4B35-B10F-4694263DEA9B}|CRUD_GECHISA\\CRUD_GECHISA.vbproj|C:\\Users\\kevin\\Downloads\\CRUD_GECHISA\\CRUD_GECHISA\\crud_gechisa\\frmprincipal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{73602999-6DE3-4B35-B10F-4694263DEA9B}|CRUD_GECHISA\\CRUD_GECHISA.vbproj|solutionrelative:crud_gechisa\\frmprincipal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73602999-6DE3-4B35-B10F-4694263DEA9B}|CRUD_GECHISA\\CRUD_GECHISA.vbproj|C:\\Users\\kevin\\Downloads\\CRUD_GECHISA\\CRUD_GECHISA\\crud_gechisa\\conexion\\conexionmaestra.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{73602999-6DE3-4B35-B10F-4694263DEA9B}|CRUD_GECHISA\\CRUD_GECHISA.vbproj|solutionrelative:crud_gechisa\\conexion\\conexionmaestra.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmPersona.vb",
+              "DocumentMoniker": "C:\\Users\\kevin\\Downloads\\CRUD_GECHISA\\CRUD_GECHISA\\CRUD_GECHISA\\frmPersona.vb",
+              "RelativeDocumentMoniker": "CRUD_GECHISA\\frmPersona.vb",
+              "ToolTip": "C:\\Users\\kevin\\Downloads\\CRUD_GECHISA\\CRUD_GECHISA\\CRUD_GECHISA\\frmPersona.vb",
+              "RelativeToolTip": "CRUD_GECHISA\\frmPersona.vb",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAswFUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-03T00:02:00.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmBus.vb",
+              "DocumentMoniker": "C:\\Users\\kevin\\Downloads\\CRUD_GECHISA\\CRUD_GECHISA\\CRUD_GECHISA\\frmBus.vb",
+              "RelativeDocumentMoniker": "CRUD_GECHISA\\frmBus.vb",
+              "ToolTip": "C:\\Users\\kevin\\Downloads\\CRUD_GECHISA\\CRUD_GECHISA\\CRUD_GECHISA\\frmBus.vb",
+              "RelativeToolTip": "CRUD_GECHISA\\frmBus.vb",
+              "ViewState": "AQIAACwAAAAAAAAAAAAYwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-03T00:01:09.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmBus.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\kevin\\Downloads\\CRUD_GECHISA\\CRUD_GECHISA\\CRUD_GECHISA\\frmBus.vb",
+              "RelativeDocumentMoniker": "CRUD_GECHISA\\frmBus.vb",
+              "ToolTip": "C:\\Users\\kevin\\Downloads\\CRUD_GECHISA\\CRUD_GECHISA\\CRUD_GECHISA\\frmBus.vb [Dise\u00F1o]",
+              "RelativeToolTip": "CRUD_GECHISA\\frmBus.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-03T00:01:06.953Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmPrincipal.vb",
+              "DocumentMoniker": "C:\\Users\\kevin\\Downloads\\CRUD_GECHISA\\CRUD_GECHISA\\CRUD_GECHISA\\frmPrincipal.vb",
+              "RelativeDocumentMoniker": "CRUD_GECHISA\\frmPrincipal.vb",
+              "ToolTip": "C:\\Users\\kevin\\Downloads\\CRUD_GECHISA\\CRUD_GECHISA\\CRUD_GECHISA\\frmPrincipal.vb",
+              "RelativeToolTip": "CRUD_GECHISA\\frmPrincipal.vb",
+              "ViewState": "AQIAABgAAAAAAAAAAAA3wCEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-02T18:50:07.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmPrincipal.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\kevin\\Downloads\\CRUD_GECHISA\\CRUD_GECHISA\\CRUD_GECHISA\\frmPrincipal.vb",
+              "RelativeDocumentMoniker": "CRUD_GECHISA\\frmPrincipal.vb",
+              "ToolTip": "C:\\Users\\kevin\\Downloads\\CRUD_GECHISA\\CRUD_GECHISA\\CRUD_GECHISA\\frmPrincipal.vb [Dise\u00F1o]",
+              "RelativeToolTip": "CRUD_GECHISA\\frmPrincipal.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-02T18:50:05.414Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConexionMaestra.vb",
+              "DocumentMoniker": "C:\\Users\\kevin\\Downloads\\CRUD_GECHISA\\CRUD_GECHISA\\CRUD_GECHISA\\Conexion\\ConexionMaestra.vb",
+              "RelativeDocumentMoniker": "CRUD_GECHISA\\Conexion\\ConexionMaestra.vb",
+              "ToolTip": "C:\\Users\\kevin\\Downloads\\CRUD_GECHISA\\CRUD_GECHISA\\CRUD_GECHISA\\Conexion\\ConexionMaestra.vb",
+              "RelativeToolTip": "CRUD_GECHISA\\Conexion\\ConexionMaestra.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-02T17:45:16.927Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
